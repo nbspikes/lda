@@ -8,6 +8,7 @@ Notebooks, experimenting with Latent Dirichlet Allocation
         <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">
             <img alt="Creative Commons License" style="border-width:0;float:left;padding-right:10pt" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" />
         </a>
+        <br/>
         &copy; O. Cremers and D. Speicher<br/>
         Licensed under a 
         <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/" style="color:black">
